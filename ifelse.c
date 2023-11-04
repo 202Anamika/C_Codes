@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int n;
+    int n=51;
     if(n/2==0)
     printf("Even number");
 else
